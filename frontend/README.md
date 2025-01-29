@@ -1,8 +1,8 @@
-# Green Horizons: South Sudan's Tourism & Wildlife Sanctuary
+# Bandhingilo Unveiled : South Sudan's Tourism & Wildlife 
 
 ## Project Setup
 
-This MERN (MongoDB, Express, ReactJS, NodeJS) stack project aims to create an online platform to promote South Sudan's tourism and wildlife conservation. Follow the steps below to set up and run the project locally.
+This MERN (MongoDB, Express, ReactJS, NodeJS) stack project aims to create an online platform to promote and explore the wonderful nature of Bandhingilo National Gamepark. Follow the steps below to set up and run the project locally.
 
 ### Prerequisites
 
@@ -17,7 +17,7 @@ This MERN (MongoDB, Express, ReactJS, NodeJS) stack project aims to create an on
 
 ### 2. Navigate to the Project Directory:
 
-    ```cd green_horizons```
+    ```cd bandhingilo unveiled```
 
 ### 3. Install Server Dependencies:
 
@@ -70,5 +70,5 @@ This MERN (MongoDB, Express, ReactJS, NodeJS) stack project aims to create an on
 
 For detailed documentation and support, please visit the [project repository](https://github.com/longmaker2/green_horizons.git).
 
-Author: Long Maker Long Deng
-Email: l.deng@alusutudent.com
+Author: Malual Charles Deng
+Email: l.dengmalual60@gmail.com.com
